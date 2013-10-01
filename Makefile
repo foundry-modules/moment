@@ -1,4 +1,4 @@
-all: modularize-script create-script-folder locale
+all: modularize-script minify-script create-script-folder locale
 
 include ../../build/modules.mk
 
